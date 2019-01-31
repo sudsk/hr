@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_xstream_out_support_mode TO hr;

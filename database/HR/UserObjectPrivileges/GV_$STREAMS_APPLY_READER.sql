@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.gv_$streams_apply_reader TO hr;

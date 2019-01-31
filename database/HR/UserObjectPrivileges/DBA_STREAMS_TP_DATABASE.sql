@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_streams_tp_database TO hr;

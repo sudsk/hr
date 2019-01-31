@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.gv_$buffered_subscribers TO hr;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.user_goldengate_privileges TO hr;

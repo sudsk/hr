@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_streams_table_rules TO hr;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_apply TO hr;

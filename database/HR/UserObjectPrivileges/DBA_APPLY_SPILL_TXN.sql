@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_apply_spill_txn TO hr;

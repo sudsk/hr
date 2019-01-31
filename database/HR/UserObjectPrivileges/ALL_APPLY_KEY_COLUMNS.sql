@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_apply_key_columns TO hr;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.gv_$streams_pool_statistics TO hr;

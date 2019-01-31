@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_streams_tp_component_stat TO hr;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_evaluation_contexts TO hr;

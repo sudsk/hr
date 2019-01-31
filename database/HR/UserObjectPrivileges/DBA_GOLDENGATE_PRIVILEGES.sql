@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_goldengate_privileges TO hr;

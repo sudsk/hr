@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_recoverable_script_blocks TO hr;

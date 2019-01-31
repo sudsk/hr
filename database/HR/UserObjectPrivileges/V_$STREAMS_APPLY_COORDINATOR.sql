@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.v_$streams_apply_coordinator TO hr;

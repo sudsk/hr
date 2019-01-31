@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.dbms_capture_switch_adm TO hr;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.v_$goldengate_capture TO hr;

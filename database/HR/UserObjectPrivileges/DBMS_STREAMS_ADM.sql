@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.dbms_streams_adm TO hr;

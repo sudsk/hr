@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.gv_$xstream_outbound_server TO hr;

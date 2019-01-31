@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.gv_$aq TO hr;

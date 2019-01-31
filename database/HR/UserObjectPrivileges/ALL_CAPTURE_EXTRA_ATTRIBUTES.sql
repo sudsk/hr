@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_capture_extra_attributes TO hr;
