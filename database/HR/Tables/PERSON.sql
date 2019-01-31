@@ -6,5 +6,6 @@ CREATE TABLE hr.person (
   salary NUMBER(8,2),
   "RESUME" VARCHAR2(1000 BYTE),
   test_col1 NUMBER,
-  test_col2 NUMBER
+  test_col2 NUMBER,
+  test_col3 NUMBER
 );
